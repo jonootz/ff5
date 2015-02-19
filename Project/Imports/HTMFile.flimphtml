@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlImport
+  KeepSourceLinks="true"
+  ProjectName="test1"
+  ProjectFolder="C:\Users\Harkins\Desktop\test1\"
+  AutoSync="true"
+  SourceFolders="file:///C:/Users/Harkins/Desktop/HTMFile"
+  ImportResources="false"
+  ImportResourcesLocation="NoImport"
+  ImportTopics="content"
+  ImportLinkedHtmlFiles="false"
+  LastImport="2015-02-18T20:51:06.7140145-08:00"
+  ImportTopicsLocation="Content/">
+  <Files>
+    <Url
+      Source="../../../HTMFile"
+      AbsoluteSource="file:///C:/Users/Harkins/Desktop/HTMFile" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/HTMFile/Getting Started.htm"
+      TimeStamp="2/18/2015 8:51:04 PM" />
+    <Url
+      Source="../TOCs/HTMFile.fltoc"
+      TimeStamp="2/18/2015 8:51:06 PM" />
+  </GeneratedFiles>
+</HtmlImport>
