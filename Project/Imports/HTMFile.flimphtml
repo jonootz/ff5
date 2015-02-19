@@ -9,7 +9,7 @@
   ImportResourcesLocation="NoImport"
   ImportTopics="content"
   ImportLinkedHtmlFiles="false"
-  LastImport="2015-02-18T20:51:06.7140145-08:00"
+  LastImport="2015-02-18T20:52:29.8227680-08:00"
   ImportTopicsLocation="Content/">
   <Files>
     <Url
@@ -22,9 +22,9 @@
   <GeneratedFiles>
     <Url
       Source="../../Content/HTMFile/Getting Started.htm"
-      TimeStamp="2/18/2015 8:51:04 PM" />
+      TimeStamp="2/18/2015 8:52:29 PM" />
     <Url
       Source="../TOCs/HTMFile.fltoc"
-      TimeStamp="2/18/2015 8:51:06 PM" />
+      TimeStamp="2/18/2015 8:52:29 PM" />
   </GeneratedFiles>
 </HtmlImport>
